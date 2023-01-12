@@ -1,9 +1,10 @@
 ### Hi there, I'm Shajibul Alam Shihab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 ## I'm a Learner, Problem Solver, Developer!!
+
 <p>
 
-<a href="https://github.com/shihab-2021"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer; Fullstack Developer;C, C plus plus; Python; Javascript; React.js; Next.js;Node.js;MongoDB;Always%20learning%20new%20things&center=false&width=380&height=45"></a>
+<a href="https://github.com/shihab-2021"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Fullstack%20Developer;C,%20C%20plus%20plus;Python;Javascript;React.js;Next.js;Node.js;MongoDB;Always%20learning%20new%20things&center=false&width=380&height=45"></a>
 
 </p>
 

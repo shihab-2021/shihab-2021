@@ -25,7 +25,6 @@
 <a href="https://codeforces.com/profile/shihab9448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shajibulalam.shihab" height="30" width="40" /></a>
 </p>
 <br />
-<br />
 
 <a href="https://codeforces.com/profile/shihab9448">
    <img src="https://raw.githubusercontent.com/shihab-2021/cf-stats/main/output/max_rating.svg" />
@@ -50,4 +49,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shihab-2021&show_icons=true&locale=en&layout=compact" alt="shihab-2021" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shihab-2021&" alt="shihab-2021" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shihab-2021" alt="shihab-2021" /></a> </p>
 

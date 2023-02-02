@@ -45,9 +45,9 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shihab-2021&show_icons=true&locale=en&layout=compact" alt="shihab-2021" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shihab-2021&show_icons=true&locale=en" alt="shihab-2021" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shihab-2021&show_icons=true&locale=en&layout=compact" alt="shihab-2021" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shihab-2021&" alt="shihab-2021" /></p>
 

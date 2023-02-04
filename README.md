@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/md-shajibul-alam-shihab-b96576216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-shajibul-alam-shihab" height="30" width="40" /></a>
-<a href="https://www.facebook.com/shajibulalam.shihab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shajibulalam.shihab" height="30" width="40" /></a>
+<a href="https://www.facebook.com/shajibulalam.shihab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shajibulalam.shihab" height="30" width="40" /></a><br />
 <a href="https://codeforces.com/profile/shihab9448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shajibulalam.shihab" height="30" width="40" /></a>
 </p>
 <br />

@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on [Developing my self](https://shajibul-alam-shihab.vercel.app/)
 
-- 👨‍💻 Portfolio [https://shihab-portfolio.vercel.app/](https://shajibul-alam-shihab.vercel.app/)
+- 👨‍💻 Portfolio [https://shajibul-alam-shihab.vercel.app/](https://shajibul-alam-shihab.vercel.app/)
 
 - 💬 Ask me about **C, C++, Python, JavaScript, React, Next.js, Html, CSS, BootStrap and Tailwind**
 
 - 📫 How to reach me **shihab77034@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1GHgLxAPYuvSVkgG93VH0auNsnSzepYw3/view?usp=sharing](https://drive.google.com/file/d/1GHgLxAPYuvSVkgG93VH0auNsnSzepYw3/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1dTRru4nc_Ailyn_aLBlFy0TNBt64CNNb/view](https://drive.google.com/file/d/1dTRru4nc_Ailyn_aLBlFy0TNBt64CNNb/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

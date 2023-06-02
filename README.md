@@ -1,7 +1,7 @@
 ### Hi there, I'm Shajibul Alam Shihab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 ## I'm a Learner, Problem Solver, Developer!!
-<img align="right" src="https://i.ibb.co/zmrhkmp/ezgif-com-gif-maker.gif" width="300">
+<img align="right" src="https://i.ibb.co/12djxc6/0-gq-O3sl-Lm-Gb4m-Ueje.gif" width="300">
 
 <p>
 

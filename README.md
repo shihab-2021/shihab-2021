@@ -19,7 +19,9 @@
 
 - 📄 My Resume [https://drive.google.com/file/d/1dTRru4nc_Ailyn_aLBlFy0TNBt64CNNb/view](https://drive.google.com/file/d/1dTRru4nc_Ailyn_aLBlFy0TNBt64CNNb/view)
 
-![git contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihab-2021&theme=tokyonight)
+---
+
+![git contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihab-2021&theme=discord_old_blurple)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

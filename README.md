@@ -1,6 +1,7 @@
 ### Hi there, I'm Shajibul Alam Shihab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 ## I'm a Learner, Problem Solver, Developer!!
+---
 <img align="right" src="https://res.cloudinary.com/dkbgqzl1e/image/upload/v1685714760/k622hnihu9g31fjiu62r.gif" width="300">
 
 <p>
@@ -21,7 +22,7 @@
 
 ---
 
-![git contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihab-2021&theme=discord_old_blurple)
+![git contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihab-2021&theme=github_dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

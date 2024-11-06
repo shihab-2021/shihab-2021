@@ -1,6 +1,5 @@
 <!--# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">-->
 
-
 <h1 style="font-size: 3rem; font-family: Carattere; font-style: italic;">Shajibul Alam Shihab <br> <span  style="font-size: 2.5rem; font-family: Carattere; font-style: italic;">Web Developer</span></h1>
 <img align="right" src="https://res.cloudinary.com/dkbgqzl1e/image/upload/v1685714760/k622hnihu9g31fjiu62r.gif" width="300">
 <p  style="font-family: Carattere; font-weight: 500">Hi!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"> I am Shihab, a Fullstack Developer specializing in web development I have extensive experience in creating websites using HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind, and the MERN stack, having completed numerous projects I am highly adaptable to innovative technologies and new programming features Additionally, I possess knowledge in C, C++, Java, and Python, along with a solid understanding of Object-Oriented Programming, Data Structures, Algorithms, and database management systems, with experience in both MongoDB and MySQL.</p>
@@ -69,6 +68,5 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab-2021&layout=compact&theme=transparent" alt="shihab-2021" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=shihab-2021&theme=transparent" alt="shihab-2021" /></p>
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shihab-2021" alt="shihab-2021" /></a> </p>-->
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shihab-2021&theme=flat" alt="shihab-2021" /></a> </p>-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shihab-2021&theme=flat&row=2&column=4" alt="shihab-2021" /></a> </p>
-

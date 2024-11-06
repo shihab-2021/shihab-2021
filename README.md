@@ -1,35 +1,28 @@
-# Hi there, I'm Shajibul Alam Shihab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-I'm a Learner, Problem Solver, Developer!
+<!--# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">-->
 
 <img align="right" src="https://res.cloudinary.com/dkbgqzl1e/image/upload/v1685714760/k622hnihu9g31fjiu62r.gif" width="300">
 
-<p>
+<h1 style="font-size: 3rem; font-family: Carattere; font-style: italic;">Shajibul Alam Shihab <br> <span  style="font-size: 2.5rem; font-family: Carattere; font-style: italic;">Web Developer</span></h1>
+<p  style="font-family: Carattere; font-weight: 500">Hi!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"> I am Shihab, a Fullstack Developer specializing in web development I have extensive experience in creating websites using HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind, and the MERN stack, having completed numerous projects I am highly adaptable to innovative technologies and new programming features Additionally, I possess knowledge in C, C++, Java, and Python, along with a solid understanding of Object-Oriented Programming, Data Structures, Algorithms, and database management systems, with experience in both MongoDB and MySQL.</p>
 
-<a href="https://github.com/shihab-2021"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Fullstack%20Developer;C,%20C%20plus%20plus;Python;Javascript;React.js;Next.js;Node.js;MongoDB;Always%20learning%20new%20things&center=false&width=380&height=45"></a>
+<br>
+<hr>
 
-</p>
+<!--![git contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihab-2021&theme=transparent)-->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihab-2021&amp;theme=transparent" alt="github top-langs" style="width: 100%; border-width: 1px; border-style: solid; border-color: #e5e7eb; border-radius: .375rem; font-family: Carattere; font-style: italic;">
+<img style="border-width: 1px; border-style: solid; border-color: #e5e7eb; border-radius: .375rem; font-family: Carattere; font-style: italic;" src="https://github-readme-stats.vercel.app/api?username=shihab-2021&amp;show_icons=true&amp;include_all_commits=true&amp;theme=transparent&amp;hide_border=true" alt="shihab-2021">
+<img  style="border-width: 1px; border-style: solid; border-color: #e5e7eb; border-radius: .375rem; font-family: Carattere; font-style: italic;" src="https://github-readme-stats.vercel.app/api?username=shihab-2021&amp;show_icons=true&amp;include_all_commits=true&amp;theme=transparent&amp;hide_border=true&amp;show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&amp;hide=stars,commits,prs,issues,contribs" alt="shihab-2021">
 
-- 🔭 I’m currently working on [Developing my self](https://shajibul-alam-shihab.web.app/)
+<br>
+<hr>
 
-- 👨‍💻 Portfolio [https://shajibul-alam-shihab.web.app/](https://shajibul-alam-shihab.web.app/)
-
-- 💬 Ask me about **C, C++, Python, JavaScript, React, Next.js, Html, CSS, BootStrap and Tailwind**
-
-- 📫 How to reach me **shihab77034@gmail.com**
-
-- 📄 My Resume [https://drive.google.com/file/d/1dTRru4nc_Ailyn_aLBlFy0TNBt64CNNb/view](https://drive.google.com/file/d/1dTRru4nc_Ailyn_aLBlFy0TNBt64CNNb/view)
-
----
-
-![git contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihab-2021&theme=github_dark)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/md-shajibul-alam-shihab-b96576216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-shajibul-alam-shihab" height="30" width="40" /></a>
-<a href="https://www.facebook.com/shajibulalam.shihab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shajibulalam.shihab" height="30" width="40" /></a><br />
-<a href="https://codeforces.com/profile/shihab9448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shajibulalam.shihab" height="30" width="40" /></a>
-</p>
-<br />
+<!--<h3 align="left">Connect with me:</h3>-->
+<!--<p align="left">-->
+<!--<a href="https://www.linkedin.com/in/md-shajibul-alam-shihab-b96576216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-shajibul-alam-shihab" height="30" width="40" /></a>-->
+<!--<a href="https://www.facebook.com/shajibulalam.shihab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shajibulalam.shihab" height="30" width="40" /></a><br />-->
+<!--<a href="https://codeforces.com/profile/shihab9448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shajibulalam.shihab" height="30" width="40" /></a>-->
+<!--</p>-->
+<!--<br />-->
 
 <a href="https://codeforces.com/profile/shihab9448">
    <img src="https://raw.githubusercontent.com/shihab-2021/cf-stats/main/output/max_rating.svg" />
@@ -40,7 +33,8 @@ I'm a Learner, Problem Solver, Developer!
 <br />
 
 <p float="left">
-    <img height="230px" src="https://raw.githubusercontent.com/shihab-2021/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Statistics"/>
+    <!--<img height="230px" src="https://raw.githubusercontent.com/shihab-2021/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Statistics"/>-->
+    <img height="230px" src="https://raw.githubusercontent.com/shihab-2021/cf-stats/main/output/light_card.svg#gh-transparent-mode-only" alt="Statistics"/>
 </p>
 
 ## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> Languages and Tools:
@@ -69,11 +63,12 @@ I'm a Learner, Problem Solver, Developer!
 
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shihab-2021&show_icons=true&theme=cobalt" alt="shihab-2021" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shihab-2021&show_icons=true&theme=cobalt" alt="shihab-2021" /></p>-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab-2021&layout=compact&theme=cobalt" alt="shihab-2021" /></p>
-
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab-2021&layout=compact&theme=cobalt" alt="shihab-2021" /></p>-->
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab-2021&layout=compact&theme=transparent" alt="shihab-2021" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shihab-2021&" alt="shihab-2021" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shihab-2021" alt="shihab-2021" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shihab-2021&theme=transparent" alt="shihab-2021" /></a> </p>
 

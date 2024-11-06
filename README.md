@@ -1,72 +1,88 @@
-<!--# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">-->
+<h1 align="center">Hi  👋, I'm <a href="https://github.com/shihab-2021">Shihab</a></h1>
 
-<h1 style="font-size: 3rem; font-family: Carattere; font-style: italic;">Shajibul Alam Shihab <br> <span  style="font-size: 2.5rem; font-family: Carattere; font-style: italic;">Web Developer</span></h1>
-<img align="right" src="https://res.cloudinary.com/dkbgqzl1e/image/upload/v1685714760/k622hnihu9g31fjiu62r.gif" width="300">
-<p  style="font-family: Carattere; font-weight: 500">Hi!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"> I am Shihab, a Fullstack Developer specializing in web development I have extensive experience in creating websites using HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind, and the MERN stack, having completed numerous projects I am highly adaptable to innovative technologies and new programming features Additionally, I possess knowledge in C, C++, Java, and Python, along with a solid understanding of Object-Oriented Programming, Data Structures, Algorithms, and database management systems, with experience in both MongoDB and MySQL.</p>
-
-<br>
-<hr>
-
-<!--![git contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihab-2021&theme=transparent)-->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihab-2021&amp;theme=transparent" alt="github top-langs" style="width: 100%; border-width: 1px; border-style: solid; border-color: #e5e7eb; border-radius: .375rem; font-family: Carattere; font-style: italic;">
-<img style="border-width: 1px; border-style: solid; border-color: #e5e7eb; border-radius: .375rem; font-family: Carattere; font-style: italic;" src="https://github-readme-stats.vercel.app/api?username=shihab-2021&amp;show_icons=true&amp;include_all_commits=true&amp;theme=transparent&amp;hide_border=true" alt="shihab-2021">
-<img  style="border-width: 1px; border-style: solid; border-color: #e5e7eb; border-radius: .375rem; font-family: Carattere; font-style: italic;" src="https://github-readme-stats.vercel.app/api?username=shihab-2021&amp;show_icons=true&amp;include_all_commits=true&amp;theme=transparent&amp;hide_border=true&amp;show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&amp;hide=stars,commits,prs,issues,contribs" alt="shihab-2021">
-
-<br>
-<hr>
-
-<!--<h3 align="left">Connect with me:</h3>-->
-<!--<p align="left">-->
-<!--<a href="https://www.linkedin.com/in/md-shajibul-alam-shihab-b96576216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-shajibul-alam-shihab" height="30" width="40" /></a>-->
-<!--<a href="https://www.facebook.com/shajibulalam.shihab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shajibulalam.shihab" height="30" width="40" /></a><br />-->
-<!--<a href="https://codeforces.com/profile/shihab9448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shajibulalam.shihab" height="30" width="40" /></a>-->
-<!--</p>-->
-<!--<br />-->
-
-<a href="https://codeforces.com/profile/shihab9448">
-   <img src="https://raw.githubusercontent.com/shihab-2021/cf-stats/main/output/max_rating.svg" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=shihab-2021&label=Profile%20views&color=0e75b6&style=flat" alt="shajibul Alam Shihab" />
-
-<b>&#128200; Competitive Programming</b>
-<br />
-
-<p float="left">
-    <!--<img height="230px" src="https://raw.githubusercontent.com/shihab-2021/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Statistics"/>-->
-    <img height="230px" src="https://raw.githubusercontent.com/shihab-2021/cf-stats/main/output/light_card.svg#gh-transparent-mode-only" alt="Statistics"/>
+<p align="center">
+  <img src="https://res.cloudinary.com/dkbgqzl1e/image/upload/v1685714760/k622hnihu9g31fjiu62r.gif" alt="banner image" width="200"/>
 </p>
 
-## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> Languages and Tools:
+<p align="center">
+  <em>A passionate developer and lifelong learner who loves to explore new technologies and ideas!</em>
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Bootstrap5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+---
 
-<br />
+### 👨‍💻 **_About Me_**
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shihab-2021&show_icons=true&theme=cobalt" alt="shihab-2021" /></p>-->
+Hi! I am Shihab, a **_Fullstack Developer_** specializing in web development I have extensive experience in creating websites using HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind, and the MERN stack, having completed numerous projects I am highly adaptable to innovative technologies and new programming features Additionally, I possess knowledge in C, C++, Java, and Python, along with a solid understanding of Object-Oriented Programming, Data Structures, Algorithms, and database management systems, with experience in both MongoDB and MySQL.
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab-2021&layout=compact&theme=cobalt" alt="shihab-2021" /></p>-->
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab-2021&layout=compact&theme=transparent" alt="shihab-2021" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=shihab-2021&theme=transparent" alt="shihab-2021" /></p>
+- 🌱 Currently working on: Developing my skills
+- 🚀 Exploring: Typescript, Redux
+- 🎯 2025 Goals: Become a next level developer
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shihab-2021&theme=flat" alt="shihab-2021" /></a> </p>-->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shihab-2021&theme=flat&row=2&column=4" alt="shihab-2021" /></a> </p>
+---
+
+### 📈 **_GitHub Stats_**
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihab-2021&amp;theme=vue" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shihab-2021&show_icons=true&theme=vue" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shihab-2021&show_icons=true&theme=vue&amp;show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&amp;hide=stars,commits,prs,issues,contribs" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shihab-2021&theme=vue" width="400"/>
+</p>
+
+---
+
+### 💻 **_Technologies & Tools_**
+
+> **_Languages_**  
+> ![Javascript](https://img.shields.io/badge/javascript-505050?style=for-the-badge&logo=javascript&logoColor=white)
+> ![Typescript](https://img.shields.io/badge/typescript-505050?style=for-the-badge&logo=typescript&logoColor=white)
+> ![C++](https://img.shields.io/badge/C++-505050?style=for-the-badge&logo=cplusplus&logoColor=white)
+> ![Python](https://img.shields.io/badge/python-505050?style=for-the-badge&logo=python&logoColor=white)
+> ![C](https://img.shields.io/badge/c-505050?style=for-the-badge&logo=c&logoColor=white)
+
+> **_Frontend_**  
+> ![React](https://img.shields.io/badge/react-505050?style=for-the-badge&logo=react&logoColor=white)
+> ![Next.js](https://img.shields.io/badge/Next.js-505050?style=for-the-badge&logo=next.js&logoColor=white)
+> ![Redux](https://img.shields.io/badge/redux-505050?style=for-the-badge&logo=redux&logoColor=white)
+> ![HTML5](https://img.shields.io/badge/html5-505050?style=for-the-badge&logo=html5&logoColor=white)
+> ![CSS](https://img.shields.io/badge/css-505050?style=for-the-badge&logo=css3&logoColor=white)
+> ![Bootstrap](https://img.shields.io/badge/bootstrap-505050?style=for-the-badge&logo=bootstrap&logoColor=white)
+> ![Tailwind](https://img.shields.io/badge/tailwind-505050?style=for-the-badge&logo=tailwindcss&logoColor=white)
+> ![MaterialUI](https://img.shields.io/badge/material_ui-505050?style=for-the-badge&logo=mui&logoColor=white)
+
+> **_Backend_**  
+> ![Node.js](https://img.shields.io/badge/node.js-505050?style=for-the-badge&logo=node.js&logoColor=white)
+> ![Express.js](https://img.shields.io/badge/express.js-505050?style=for-the-badge&logo=express&logoColor=white)
+
+> **_Database & Authentication_**  
+> ![MongoDB](https://img.shields.io/badge/mongodb-505050?style=for-the-badge&logo=mongodb&logoColor=white)
+> ![MySQL](https://img.shields.io/badge/mysql-505050?style=for-the-badge&logo=mysql&logoColor=white)
+> ![Firebase](https://img.shields.io/badge/firebase-505050?style=for-the-badge&logo=firebase&logoColor=white)
+
+> **_Dev Tools_**  
+> ![VSCode](https://img.shields.io/badge/visual_studio-505050?style=for-the-badge&logo=visual-studio&logoColor=white)
+> ![Chrome](https://img.shields.io/badge/chrome-505050?style=for-the-badge&logo=google%20chrome&logoColor=white)
+> ![git](https://img.shields.io/badge/git-505050?style=for-the-badge&logo=git&logoColor=white)
+> ![github](https://img.shields.io/badge/github-505050?style=for-the-badge&logo=github&logoColor=white)
+> ![npm](https://img.shields.io/badge/npm-505050?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
+### 📫 **_Reach Out_**
+
+I’m always excited to collaborate on interesting projects! Feel free to connect:
+
+<p align="center">
+  <a href="mailto:shihab77023@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
+
+---
+
+### 🎉 **_Thank You for Visiting!_**
+
+<p align="center">
+  <em>Feel free to check out my projects or get in touch! Let's connect and create something amazing together.</em>
+</p>

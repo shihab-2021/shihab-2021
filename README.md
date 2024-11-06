@@ -70,5 +70,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=shihab-2021&theme=transparent" alt="shihab-2021" /></p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shihab-2021" alt="shihab-2021" /></a> </p>-->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shihab-2021&theme=transparent" alt="shihab-2021" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shihab-2021&theme=flat&row=2&column=4" alt="shihab-2021" /></a> </p>
 

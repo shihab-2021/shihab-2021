@@ -23,10 +23,10 @@ Hi! I am Shihab, a **_Fullstack Developer_** specializing in web development I h
 ### 📈 **_GitHub Stats_**
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihab-2021&amp;theme=vue" width="100%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shihab-2021&show_icons=true&theme=vue" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shihab-2021&show_icons=true&theme=vue&amp;show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&amp;hide=stars,commits,prs,issues,contribs" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shihab-2021&theme=vue" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihab-2021&amp;theme=transparent" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shihab-2021&show_icons=true&theme=transparent" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shihab-2021&show_icons=true&theme=transparent&amp;show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&amp;hide=stars,commits,prs,issues,contribs" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shihab-2021&theme=transparent" width="400"/>
 </p>
 
 ---

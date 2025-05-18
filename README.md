@@ -12,7 +12,7 @@
 
 ### 👨‍💻 **_About Me_**
 
-Hi! I am Shihab, a **_Fullstack Developer_** specializing in web development I have extensive experience in creating websites using HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind, and the MERN stack, having completed numerous projects I am highly adaptable to innovative technologies and new programming features Additionally, I possess knowledge in C, C++, Java, and Python, along with a solid understanding of Object-Oriented Programming, Data Structures, Algorithms, and database management systems, with experience in both MongoDB and MySQL.
+Hi! I’m Shihab, a Fullstack Developer specializing in web development. I have strong expertise in React.js, Next.js, TypeScript, JavaScript, Node.js, and the MERN stack, with hands-on experience in building dynamic, full-featured web applications. I’m proficient in HTML, CSS, Tailwind CSS, shadcn/ui, and Bootstrap, and I work confidently with databases like MongoDB and PostgreSQL using Mongoose and Prisma. I’m also familiar with Firebase and NextAuth.js. Alongside my technical skills, I bring strong communication, problem-solving, and adaptability to every project I work on.
 
 - 🌱 Currently working on: Developing my skills
 - 🚀 Exploring: Typescript, Redux

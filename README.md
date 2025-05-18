@@ -20,17 +20,6 @@ Hi! I’m Shihab, a Fullstack Developer specializing in web development. I have 
 
 ---
 
-### 📈 **_GitHub Stats_**
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihab-2021&amp;theme=transparent" width="100%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shihab-2021&show_icons=true&theme=transparent" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shihab-2021&show_icons=true&theme=transparent&amp;show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&amp;hide=stars,commits,prs,issues,contribs" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shihab-2021&theme=transparent" width="400"/>
-</p>
-
----
-
 ### 💻 **_Technologies & Tools_**
 
 > **_Languages_**  
@@ -65,6 +54,18 @@ Hi! I’m Shihab, a Fullstack Developer specializing in web development. I have 
 > ![git](https://img.shields.io/badge/git-505050?style=for-the-badge&logo=git&logoColor=white)
 > ![github](https://img.shields.io/badge/github-505050?style=for-the-badge&logo=github&logoColor=white)
 > ![npm](https://img.shields.io/badge/npm-505050?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
+
+### 📈 **_GitHub Stats_**
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihab-2021&amp;theme=transparent" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shihab-2021&show_icons=true&theme=transparent" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shihab-2021&show_icons=true&theme=transparent&amp;show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&amp;hide=stars,commits,prs,issues,contribs" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shihab-2021&theme=transparent" width="400"/>
+</p>
 
 ---
 

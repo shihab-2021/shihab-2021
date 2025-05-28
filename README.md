@@ -65,7 +65,7 @@ const shihab = {
 
 <div style="display: flex; justify-content: center; gap: 10px;">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shihab-2021&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shihab-2021&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab-2021&layout=compact&langs_count=8&theme=radical&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 

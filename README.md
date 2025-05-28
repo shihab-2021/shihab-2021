@@ -1,79 +1,82 @@
 <h1 align="center">Hi  👋, I'm <a href="https://github.com/shihab-2021">Shihab</a></h1>
 
-<p align="center">
-  <img src="https://res.cloudinary.com/dkbgqzl1e/image/upload/v1685714760/k622hnihu9g31fjiu62r.gif" alt="banner image" width="200"/>
+<div align="center">
+  <img src="https://res.cloudinary.com/dkbgqzl1e/image/upload/v1685714760/k622hnihu9g31fjiu62r.gif" alt="Developer Animation" width="200"/>
+  
+  **Fullstack Developer | MERN Stack Enthusiast | Problem Solver**
+  
+  *Crafting digital experiences with modern web technologies*
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate **Fullstack Developer** who loves turning ideas into reality through code. With expertise in the **MERN stack** and modern web technologies, I build scalable, user-friendly applications that make a difference.
+
+```javascript
+const shihab = {
+  location: "Bangladesh 🇧🇩",
+  currentFocus: ["TypeScript", "Next.js", "System Design"],
+  goal2025: "Become a next-level developer",
+  motto: "Code with purpose, learn with passion"
+};
+```
+
+---
+
+## 🔥 **TECHNOLOGY MASTERY**
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+### **Frontend Arsenal**
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css,bootstrap,materialui" />
 </p>
 
-<p align="center">
-  <em>A passionate developer and lifelong learner who loves to explore new technologies and ideas!</em>
+### **Backend Powerhouse**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,firebase" />
 </p>
 
----
-
-### 👨‍💻 **_About Me_**
-
-Hi! I’m Shihab, a Fullstack Developer specializing in web development. I have strong expertise in React.js, Next.js, TypeScript, JavaScript, Node.js, and the MERN stack, with hands-on experience in building dynamic, full-featured web applications. I’m proficient in HTML, CSS, Tailwind CSS, shadcn/ui, and Bootstrap, and I work confidently with databases like MongoDB and PostgreSQL using Mongoose and Prisma. I’m also familiar with Firebase and NextAuth.js. Alongside my technical skills, I bring strong communication, problem-solving, and adaptability to every project I work on.
-
-- 🌱 Currently working on: Developing my skills
-- 🚀 Exploring: Typescript, Next.js
-- 🎯 2025 Goals: Become a next level developer
-
----
-
-### 💻 **_Technologies & Tools_**
-
-> **_Languages_**  
-> ![Javascript](https://img.shields.io/badge/javascript-505050?style=for-the-badge&logo=javascript&logoColor=white)
-> ![Typescript](https://img.shields.io/badge/typescript-505050?style=for-the-badge&logo=typescript&logoColor=white)
-> ![C++](https://img.shields.io/badge/C++-505050?style=for-the-badge&logo=cplusplus&logoColor=white)
-> ![Python](https://img.shields.io/badge/python-505050?style=for-the-badge&logo=python&logoColor=white)
-> ![C](https://img.shields.io/badge/c-505050?style=for-the-badge&logo=c&logoColor=white)
-
-> **_Frontend_**  
-> ![React](https://img.shields.io/badge/react-505050?style=for-the-badge&logo=react&logoColor=white)
-> ![Next.js](https://img.shields.io/badge/Next.js-505050?style=for-the-badge&logo=next.js&logoColor=white)
-> ![Redux](https://img.shields.io/badge/redux-505050?style=for-the-badge&logo=redux&logoColor=white)
-> ![Tailwind](https://img.shields.io/badge/tailwind-505050?style=for-the-badge&logo=tailwindcss&logoColor=white)
-> ![Shadcn/UI](https://img.shields.io/badge/shadcn/ui-505050?style=for-the-badge&logo=shadcn/ui&logoColor=white)
-> ![MaterialUI](https://img.shields.io/badge/material_ui-505050?style=for-the-badge&logo=mui&logoColor=white)
-> ![HTML5](https://img.shields.io/badge/html5-505050?style=for-the-badge&logo=html5&logoColor=white)
-> ![CSS](https://img.shields.io/badge/css-505050?style=for-the-badge&logo=css3&logoColor=white)
-> ![Bootstrap](https://img.shields.io/badge/bootstrap-505050?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-> **_Backend_**  
-> ![Node.js](https://img.shields.io/badge/node.js-505050?style=for-the-badge&logo=node.js&logoColor=white)
-> ![Express.js](https://img.shields.io/badge/express.js-505050?style=for-the-badge&logo=express&logoColor=white)
-> ![Mongoose](https://img.shields.io/badge/mongoose-505050?style=for-the-badge&logo=mongoose&logoColor=white)
-> ![Postgresql](https://img.shields.io/badge/postgresql-505050?style=for-the-badge&logo=postgresql&logoColor=white)
-> ![Prisma](https://img.shields.io/badge/prisma-505050?style=for-the-badge&logo=prisma&logoColor=white)
-
-> **_Database & Authentication_**  
-> ![MongoDB](https://img.shields.io/badge/mongodb-505050?style=for-the-badge&logo=mongodb&logoColor=white)
-> ![MySQL](https://img.shields.io/badge/mysql-505050?style=for-the-badge&logo=mysql&logoColor=white)
-> ![Firebase](https://img.shields.io/badge/firebase-505050?style=for-the-badge&logo=firebase&logoColor=white)
-
-> **_Dev Tools_**  
-> ![VSCode](https://img.shields.io/badge/visual_studio-505050?style=for-the-badge&logo=visual-studio&logoColor=white)
-> ![Chrome](https://img.shields.io/badge/chrome-505050?style=for-the-badge&logo=google%20chrome&logoColor=white)
-> ![git](https://img.shields.io/badge/git-505050?style=for-the-badge&logo=git&logoColor=white)
-> ![github](https://img.shields.io/badge/github-505050?style=for-the-badge&logo=github&logoColor=white)
-> ![npm](https://img.shields.io/badge/npm-505050?style=for-the-badge&logo=npm&logoColor=white)
-
----
-
-
-### 📈 **_GitHub Stats_**
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihab-2021&amp;theme=transparent" width="100%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shihab-2021&show_icons=true&theme=transparent" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shihab-2021&show_icons=true&theme=transparent&amp;show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&amp;hide=stars,commits,prs,issues,contribs" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shihab-2021&theme=transparent" width="400"/>
+### **Development Ecosystem**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,postman" />
 </p>
 
+### **Additional Skills**
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,c,mysql" />
+</p>
+
+</div>
+
 ---
 
-### 📫 **_Reach Out_**
+## 📈 **PERFORMANCE METRICS**
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shihab-2021&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shihab-2021&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shihab-2021&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab-2021&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
+</div>
+
+</div>
+
+---
+
+## 📫 **_Reach Out_**
+<div align="center">
 
 I’m always excited to collaborate on interesting projects! Feel free to connect:
 
@@ -83,11 +86,19 @@ I’m always excited to collaborate on interesting projects! Feel free to connec
   <a href="https://www.facebook.com/shajibulalam.shihab/"><img src="https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://discordapp.com/users/shajibul_alam_shihab"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
+</div>
 
 ---
+<div align="center">
+
+### 💬 **"Let's build the future, one commit at a time"**
+
+<img src="https://komarev.com/ghpvc/?username=shihab-2021&label=Profile%20Views&color=00D9FF&style=for-the-badge"/>
 
 ### 🎉 **_Thank You for Visiting!_**
 
 <p align="center">
   <em>Feel free to check out my projects or get in touch! Let's connect and create something amazing together.</em>
 </p>
+
+</div>

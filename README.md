@@ -15,7 +15,7 @@
 Hi! I’m Shihab, a Fullstack Developer specializing in web development. I have strong expertise in React.js, Next.js, TypeScript, JavaScript, Node.js, and the MERN stack, with hands-on experience in building dynamic, full-featured web applications. I’m proficient in HTML, CSS, Tailwind CSS, shadcn/ui, and Bootstrap, and I work confidently with databases like MongoDB and PostgreSQL using Mongoose and Prisma. I’m also familiar with Firebase and NextAuth.js. Alongside my technical skills, I bring strong communication, problem-solving, and adaptability to every project I work on.
 
 - 🌱 Currently working on: Developing my skills
-- 🚀 Exploring: Typescript, Redux
+- 🚀 Exploring: Typescript, Next.js
 - 🎯 2025 Goals: Become a next level developer
 
 ---
@@ -33,15 +33,19 @@ Hi! I’m Shihab, a Fullstack Developer specializing in web development. I have 
 > ![React](https://img.shields.io/badge/react-505050?style=for-the-badge&logo=react&logoColor=white)
 > ![Next.js](https://img.shields.io/badge/Next.js-505050?style=for-the-badge&logo=next.js&logoColor=white)
 > ![Redux](https://img.shields.io/badge/redux-505050?style=for-the-badge&logo=redux&logoColor=white)
+> ![Tailwind](https://img.shields.io/badge/tailwind-505050?style=for-the-badge&logo=tailwindcss&logoColor=white)
+> ![Shadcn/UI](https://img.shields.io/badge/shadcn/ui-505050?style=for-the-badge&logo=shadcn/ui&logoColor=white)
+> ![MaterialUI](https://img.shields.io/badge/material_ui-505050?style=for-the-badge&logo=mui&logoColor=white)
 > ![HTML5](https://img.shields.io/badge/html5-505050?style=for-the-badge&logo=html5&logoColor=white)
 > ![CSS](https://img.shields.io/badge/css-505050?style=for-the-badge&logo=css3&logoColor=white)
 > ![Bootstrap](https://img.shields.io/badge/bootstrap-505050?style=for-the-badge&logo=bootstrap&logoColor=white)
-> ![Tailwind](https://img.shields.io/badge/tailwind-505050?style=for-the-badge&logo=tailwindcss&logoColor=white)
-> ![MaterialUI](https://img.shields.io/badge/material_ui-505050?style=for-the-badge&logo=mui&logoColor=white)
 
 > **_Backend_**  
 > ![Node.js](https://img.shields.io/badge/node.js-505050?style=for-the-badge&logo=node.js&logoColor=white)
 > ![Express.js](https://img.shields.io/badge/express.js-505050?style=for-the-badge&logo=express&logoColor=white)
+> ![Mongoose](https://img.shields.io/badge/mongoose-505050?style=for-the-badge&logo=mongoose&logoColor=white)
+> ![Postgresql](https://img.shields.io/badge/postgresql-505050?style=for-the-badge&logo=postgresql&logoColor=white)
+> ![Prisma](https://img.shields.io/badge/prisma-505050?style=for-the-badge&logo=prisma&logoColor=white)
 
 > **_Database & Authentication_**  
 > ![MongoDB](https://img.shields.io/badge/mongodb-505050?style=for-the-badge&logo=mongodb&logoColor=white)

@@ -59,6 +59,7 @@ const shihab = {
 
 <div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=shihab-2021&theme=transparent)](https://git.io/streak-stats)
 <img src="https://github-readme-streak-stats-fast.vercel.api/?user=shihab-2021&theme=radical&hide_border=false&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shihab-2021&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=false"/>
